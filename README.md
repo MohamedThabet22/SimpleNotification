@@ -2,5 +2,5 @@
 Hello, this simple project was created by :
 Mohamed Thabet.
 
-Contact link:
-https://www.linkedin.com/in/mohamed-thabet-85120626a/
+
+![effective-push-notifications](https://github.com/MohamedThabet22/SimpleNotification/assets/141251129/4cfb0dc2-5e4a-47ad-89fb-a83b3ed250c0)
